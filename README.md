@@ -350,10 +350,6 @@ The presence of `=` is used to distinguish between arithmetic expressions and ma
   <img src="./images/architecture.png" alt="System Architecture" width="600">
 </p>
 
-## Original Project
-
-The original application was previously deployed online but is currently unavailable because the hosting platform used for deployment discontinued its free product plans.
-
 ## References
 
 - Introduction to CNN Keras
